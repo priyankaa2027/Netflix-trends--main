@@ -1,0 +1,11 @@
+Power BI Cloud Connection Template
+
+1. Upload your Excel file to OneDrive or SharePoint.
+2. In Power BI Desktop:
+   - Go to 'Get Data' > 'Web' or 'SharePoint Folder'.
+   - Enter the URL to your cloud-hosted Excel file.
+   - Load and transform data as needed.
+3. Save and publish your dashboard to Power BI Service.
+4. Set up scheduled refresh in Power BI Service using the cloud data source.
+
+Refer to README.md for detailed steps.
